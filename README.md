@@ -1,2 +1,2 @@
-# Hola-mundo
-Becoming a Self-taught Data Scientist
+# Hola-mundo!
+Becoming a Self-taught Data Scientist.
