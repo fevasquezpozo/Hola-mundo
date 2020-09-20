@@ -1,2 +1,2 @@
 # Hola-mundo
-Aprendiendo a usar github
+Becoming a Self-taught Data Scientist
